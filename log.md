@@ -8,6 +8,6 @@
 
 **Thoughts:** So happy Tribute page is over.  I am so comfortable coding regularly that to use Bootstrap was difficult for me.  I have never really done much w/Bootstrap.
 
-**Link to work:** [<Tribute Page>](http://codepen.io/devgrrl/pen/vgQqBa)
+**Link to work:** [Tribute Page](http://codepen.io/devgrrl/pen/vgQqBa)
 
 
