@@ -17,8 +17,17 @@
 
 **Thoughts:** Long learning curve, but I'm much more comfortable with Javascript now.  Props go to WP forums, CSS Tricks and those who share how they've solved their problems.  Goes to show how important it is to keep a blog or log of what steps are taken to achieve something.  It really does help those of us who are seeking solutions.
 
-**Link to work:** [<name>](http://)  Unfortunately no link, because WP site is still on localhost.  
+**Link to work:** [<name>](http://)  Unfortunately no link, because WP site is still on localhost
 
 
 
+### Day : February 13, 2017
+#####
+
+**Today's Progress**: only a few javascript exercises at lunch
+AFTER work, began finishing website on wp 
+
+**Thoughts:** 
+
+**Link to work:** [<name>](http://) not yet unless you go on FCC to see progress 
 
