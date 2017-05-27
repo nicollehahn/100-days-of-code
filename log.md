@@ -36,8 +36,8 @@ AFTER work, began finishing website on wp
 
 **Today's Progress:** Working on JavaScript: Up and Going
 
-**What happenned to you?:** Well, a lot of self-doubt, questioning and all the stuff that gets in the way of process!  For shame!!  So I've sucked it up and am back in the game.  I had my hand in too many web development pots.  
+**What happenned to you?:** Well, a lot of self-doubt, questioning and all the stuff that gets in the way of process!  For shame!!  So I've sucked it up and am back in the game.  I had my hand in too many web development pots.  I couldn't focus.  Now I'm specifically focusing on Javascript, as well as maintaining my chops with html & css.  
 
-**Thoughts:** It only took three times to feel at ease with Javascript.  In the beginning I felt really intimidated just thinking I'd be working in Js, and now it seems a natural part of development.  Front End felt so one-sided, so I like the interaction that Js brings to a site.  Trying hard not to get ahead of myself &amp; just get the basic elements.
+**Thoughts:** It only took three different times to feel at ease with Javascript.  In the beginning I felt really intimidated just thinking I'd be working in Js, and now it seems a natural part of web development, the missing link.  Front End felt so one-sided, so I like the interaction that Js brings to a site.  Trying hard not to get ahead of myself & just get the basic elements.
 
 **Link to work:** [link name](http://)No links today.  Just all practice.
